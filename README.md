@@ -12,7 +12,7 @@
  <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-ffc0cb.svg?logo=sass&logoColor=white"></a>
 
  *🔭 I’m presently working with my team at the Electronic Arts clone: <br>
-  💻 https://github.com/ErasmoSalsano/ea-clone.git
+  💻 [Project EA clone]https://github.com/ErasmoSalsano/ea-clone.git
  
  <!--
 **Meli357/Meli357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
