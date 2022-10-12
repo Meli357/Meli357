@@ -11,7 +11,7 @@
  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
  <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-ffc0cb.svg?logo=sass&logoColor=white"></a>
 
- *🔭 I’m presently working with my team at the Electronic Arts clone:
+ *🔭 I’m presently working with my team at the Electronic Arts clone: <br>
   💻 https://github.com/ErasmoSalsano/ea-clone.git
  
  <!--
