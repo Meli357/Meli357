@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Melissa 🌞
 
 *🌟 I've always been curious about web development
-
+<!-- 
  *🔭 I’m presently working with my team at the Electronic Arts clone: <br>
-  💻 [Project EA clone](https://github.com/ErasmoSalsano/ea-clone.git)
+  💻 [Project EA clone](https://github.com/ErasmoSalsano/ea-clone.git) -->
 
 *🌱 I’m currently learning Full Stack Web Development
 <br> 
